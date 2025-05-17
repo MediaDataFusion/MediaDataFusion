@@ -40,6 +40,7 @@ I’m open to collaborating on projects involving:
 🌐 Website: mediadatafusion.com  
 🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion  
 🐦 Twitter/X: [@JeremyGrove_MDF](https://x.com/JeremyGrove_MDF)
+
 ⸻
 
 😄 Fun Fact
