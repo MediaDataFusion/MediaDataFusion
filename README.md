@@ -1,60 +1,46 @@
 👋 Hi, I’m Jeremy Grove (@MediaDataFusion)
 
-🚀 Founder | Business Analyst | AI & Data Specialist
+🚀 Founder of Media Data Fusion | AI Integration & Business Systems Architect
 
 About Me
+I’m the founder of Media Data Fusion, where I specialize in AI-powered automation, data architecture, and custom business systems. With a background in IT infrastructure and business analytics, I build intelligent workflows that connect strategy with execution. My focus is on helping businesses transform data into decisions, automate complex operations, and scale smart.
 
-I’m the founder of Media Data Fusion, where I specialize in AI integration, data analytics, automation, and process optimization. With a background in IT infrastructure and business analytics, I focus on designing intelligent systems that bridge technology and business needs. My expertise lies in transforming complex data into actionable insights, helping businesses automate workflows, enhance decision-making, and drive growth.
-
-🔹 What sets me apart?
-I merge technical precision with strategic insights, delivering AI-powered solutions, predictive analytics, and automation tools that save time, reduce costs, and unlock new opportunities. My goal is to help businesses work smarter, not harder, ensuring they stay ahead in a rapidly evolving digital landscape.
+🔹 What sets me apart? I bridge the gap between deep technical knowledge and real-world business needs. My solutions combine automation, predictive analytics, CRM optimization, and streamlined architecture to help organizations save time, reduce costs, and unlock new revenue opportunities — all with minimal overhead.
 
 ⸻
 
 👀 What I’m Interested In
-	•	AI-driven automation & workflow optimization
-	•	Data analytics & predictive modeling
-	•	Business intelligence & process improvement
-	•	Software development & AI-enhanced tools
-	•	Creating scalable solutions for businesses
+• AI-driven automation and intelligent workflows
+• Predictive analytics and data strategy
+• CRM optimization and custom integrations
+• Remote-first systems and scalable business tools
+• Building lean, high-impact digital infrastructure
 
 🌱 What I’m Currently Learning
-	•	Advanced machine learning & AI integration
-	•	Expanding Salesforce-to-Google Sheets/Excel automation
-	•	No-code/low-code solutions for business automation
+• Advanced LLM integration and agentic workflows
+• Full-stack Supabase and Vercel deployments
+• Salesforce-to-Google Sheets/Excel automation tooling
+• No-code/low-code systems that accelerate delivery
 
 💡 Projects & Collaboration
-
 I’m open to collaborating on projects involving:
-✅ AI-powered automation tools
-✅ Business analytics dashboards
-✅ Salesforce, Google Sheets & Excel integrations
-✅ Remote work & digital entrepreneurship solutions
+AI-enabled business tools, system architecture, CRM integrations, operational dashboards, data automation pipelines, and intelligent backend systems — especially for solo founders, lean teams, and remote-first businesses.
 
 ⸻
 
 📫 How to Reach Me
-
-📅 Book a Free 30-Minute Discovery Call: [cal.com/jeremy-mediadatafusion](https://cal.com/jeremy-mediadatafusion)  
-📧 Email: jeremy@mediadatafusion.com  
-🌐 Website: mediadatafusion.com  
-🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion  
-🐦 Twitter/X: [@JeremyGrove_MDF](https://x.com/JeremyGrove_MDF)
+📅 Book a Free 30-Minute Discovery Call: cal.com/jeremy-mediadatafusion
+📧 Email: jeremy@mediadatafusion.com
+🌐 Website: mediadatafusion.com
+🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion
+🐦 Twitter/X: @JeremyGrove_MDF
 
 ⸻
 
 😄 Fun Fact
-
-When I’m not optimizing data and business processes, I’m exploring new AI tools, working on home renovation projects, or thinking about how to create low-cost, high-impact business ventures.
+When I’m not streamlining data or building automation systems, I’m hands-on with home renovation projects, testing emerging AI tools, or designing scalable microbusiness ventures across global markets.
 
 ⸻
 
-🚀 Let’s Build Smarter Solutions Together!
+🚀 Let’s Build Smarter Systems Together!
 
-
-
-
-<!---
-MediaDataFusion/MediaDataFusion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
