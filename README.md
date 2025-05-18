@@ -29,10 +29,14 @@ AI-enabled business tools, system architecture, CRM integrations, operational da
 ⸻
 
 📫 How to Reach Me
-📅 Book a Free 30-Minute Discovery Call: cal.com/jeremy-mediadatafusion
+📅 Book a Free 30-Minute Discovery Call: https://cal.com/jeremy-mediadatafusion
+
 📧 Email: jeremy@mediadatafusion.com
-🌐 Website: mediadatafusion.com
+
+🌐 Website: https://www.mediadatafusion.com/
+
 🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion
+
 🐦 Twitter/X: @JeremyGrove_MDF
 
 ⸻
