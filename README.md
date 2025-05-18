@@ -34,7 +34,7 @@ AI-enabled business tools, system architecture, CRM integrations, operational da
 
 📧 Email: jeremy@mediadatafusion.com
 
-🌐 Website: mediadatafusion.com
+🌐 Website: https://www.mediadatafusion.com/
 
 🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion
 
