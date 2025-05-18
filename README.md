@@ -5,7 +5,7 @@
 About Me
 I’m the founder of Media Data Fusion, where I specialize in AI-powered automation, data architecture, and custom business systems. With a background in IT infrastructure and business analytics, I build intelligent workflows that connect strategy with execution. My focus is on helping businesses transform data into decisions, automate complex operations, and scale smart.
 
-🔹 What sets me apart? I bridge the gap between deep technical knowledge and real-world business needs. My solutions combine automation, predictive analytics, CRM optimization, and streamlined architecture to help organizations save time, reduce costs, and unlock new revenue opportunities — all with minimal overhead.
+🔹 What sets me apart? I bridge the gap between deep technical knowledge and real-world business needs. My solutions combine automation, predictive analytics, CRM optimization, and streamlined architecture to help organizations save time, reduce costs, and unlock new revenue opportunities all with minimal overhead.
 
 ⸻
 
@@ -24,7 +24,7 @@ I’m the founder of Media Data Fusion, where I specialize in AI-powered automat
 
 💡 Projects & Collaboration
 I’m open to collaborating on projects involving:
-AI-enabled business tools, system architecture, CRM integrations, operational dashboards, data automation pipelines, and intelligent backend systems — especially for solo founders, lean teams, and remote-first businesses.
+AI-enabled business tools, system architecture, CRM integrations, operational dashboards, data automation pipelines, and intelligent backend systems especially for solo founders, lean teams, and remote-first businesses.
 
 ⸻
 
