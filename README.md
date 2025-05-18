@@ -38,7 +38,7 @@ AI-enabled business tools, system architecture, CRM integrations, operational da
 
 🔗 LinkedIn: www.linkedin.com/in/jeremy-grove-mediadatafusion
 
-🐦 Twitter/X: @JeremyGrove_MDF
+🐦 Twitter/X: https://x.com/JeremyGrove_MDF
 
 ⸻
 
