@@ -20,7 +20,7 @@ I’m the founder of Media Data Fusion, where I specialize in AI-powered automat
 • Advanced LLM integration and agentic workflows
 • Full-stack Supabase and Vercel deployments
 • Salesforce-to-Google Sheets/Excel automation tooling
-• No-code/low-code systems that accelerate delivery
+• Scalable architecture for AI-powered web applications
 
 💡 Projects & Collaboration
 I’m open to collaborating on projects involving:
