@@ -10,11 +10,17 @@ I’m the founder of Media Data Fusion, where I specialize in AI-powered automat
 ⸻
 
 👀 What I’m Interested In
+
 • AI-driven automation and intelligent workflows
+
 • Predictive analytics and data strategy
+
 • CRM optimization and custom integrations
+
 • Remote-first systems and scalable business tools
+
 • Building lean, high-impact digital infrastructure
+
 
 🌱 What I’m Currently Learning
 • Advanced integration of large language models (LLMs) into real-world business systems
