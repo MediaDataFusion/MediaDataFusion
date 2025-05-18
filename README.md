@@ -20,8 +20,8 @@ I’m the founder of Media Data Fusion, where I specialize in AI-powered automat
 • Advanced integration of large language models (LLMs) into real-world business systems
 • Designing scalable full-stack applications that align with client-specific goals
 • Building intelligent automation workflows across diverse CRM platforms such as Salesforce, HubSpot, and Zoho
-• Implementing dynamic data pipelines using tools like Google Sheets, Excel, and other client-preferred analytics platforms
-• Refining delivery workflows using Supabase and Vercel as preferred tools — while remaining fully adaptable to any architecture, including Firebase, AWS, PostgreSQL, or custom cloud setups
+• Implementing dynamic data pipelines using tools like Google Sheets, Excel, and other client preferred analytics platforms
+• Refining delivery workflows using Supabase and Vercel as preferred tools while remaining fully adaptable to any architecture, including Firebase, AWS, PostgreSQL, or custom cloud setups
 
 💡 Projects & Collaboration
 I’m open to collaborating on projects involving:
